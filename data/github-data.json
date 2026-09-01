@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-31T09:53:16.300Z",
+  "updatedAt": "2026-09-01T08:44:44.987Z",
   "user": {
     "login": "luizhdalecrim",
     "name": "Luiz H D Alecrim",
     "avatar": "https://avatars.githubusercontent.com/u/163210265?v=4",
     "bio": null,
     "followers": 6,
-    "following": 20,
+    "following": 21,
     "publicRepos": 18,
     "profileUrl": "https://github.com/luizhdalecrim"
   },
@@ -16,8 +16,8 @@
     "totalStacks": 7
   },
   "stacks": [
-    "C",
     "JavaScript",
+    "C",
     "HTML",
     "Lua",
     "C#",
@@ -53,6 +53,26 @@
   ],
   "repos": [
     {
+      "id": 948626540,
+      "name": "luizhdalecrim.github.io",
+      "description": "Minha página web estática",
+      "url": "https://github.com/luizhdalecrim/luizhdalecrim.github.io",
+      "homepage": "",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "visibility": "public",
+      "updatedAt": "2026-08-31T10:00:09Z",
+      "pushedAt": "2026-08-31T09:53:18Z",
+      "isFork": false,
+      "owner": {
+        "login": "luizhdalecrim",
+        "avatar": "https://avatars.githubusercontent.com/u/163210265?v=4",
+        "type": "User"
+      }
+    },
+    {
       "id": 1346760129,
       "name": "unoeste",
       "description": null,
@@ -65,26 +85,6 @@
       "visibility": "public",
       "updatedAt": "2026-08-31T04:15:17Z",
       "pushedAt": "2026-08-31T04:15:09Z",
-      "isFork": false,
-      "owner": {
-        "login": "luizhdalecrim",
-        "avatar": "https://avatars.githubusercontent.com/u/163210265?v=4",
-        "type": "User"
-      }
-    },
-    {
-      "id": 948626540,
-      "name": "luizhdalecrim.github.io",
-      "description": "Minha página web estática",
-      "url": "https://github.com/luizhdalecrim/luizhdalecrim.github.io",
-      "homepage": "",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "topics": [],
-      "visibility": "public",
-      "updatedAt": "2026-08-30T09:19:28Z",
-      "pushedAt": "2026-08-30T09:19:24Z",
       "isFork": false,
       "owner": {
         "login": "luizhdalecrim",
